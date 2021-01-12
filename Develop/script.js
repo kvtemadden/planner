@@ -34,7 +34,7 @@ jQuery(document).ready(function ($) {
         else if (moment(now).isAfter(hour) == true) {
             $(inputArea).addClass("past");
         }
-        else if (moment(now).isSame(hour) == true) {
+        else if (moment(now).isSame(hour, "hour") == true) {
             $(inputArea).addClass("present");
         }
         
