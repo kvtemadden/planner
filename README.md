@@ -1,4 +1,4 @@
-# planner
+# Planner
 A planner to help you organise your daily tasks.
 
 This planner is based on the 9-5 (great song) work pattern.
@@ -13,7 +13,7 @@ Section | Description
 [Licence](#licence) | Licence for the source code
 
 ## Screenshot
-![Screenshot of working planner](/Assets/screenshot-of-planner.PNG)
+![Screenshot of working planner](Assets/screenshot-of-planner.png)
 
 You can access the site via [this link](https://kvtemadden.github.io/planner/)
 
